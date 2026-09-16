@@ -4,7 +4,6 @@
 
 **不懂代码，也能做出并上线一个 AI 产品**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![面向人群](https://img.shields.io/badge/面向-非技术产品经理-green.svg)]()
 [![语言](https://img.shields.io/badge/文档-中文-red.svg)]()
 
@@ -102,4 +101,6 @@
 
 ## 📄 许可
 
-[MIT License](./LICENSE) © 2025 hubooooooo
+---
+
+维护者：[fengwunongyinghuachuanyi](https://github.com/fengwunongyinghuachuanyi)
